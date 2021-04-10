@@ -65,7 +65,7 @@
 
 ## 🔗 Traveler 깃허브 주소
 
-👉🏻 [Traveler github](https://github.com/jymaeng95/Traveler)
+👉🏻 [Traveler github](https://github.com/kimho1995/Traveler)
 
 ## 📽️ Traveler 시연 영상
 
